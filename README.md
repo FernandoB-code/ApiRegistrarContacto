@@ -1,2 +1,5 @@
 # ApiRegistrarContacto
-Web API SpringBoot-MYSQL - CRUD para añadir contactos
+
+Utilizando: Springboot
+Base de datos: MYSQL
+Aplicacion web para añadi, modificar y eliminar contactos
